@@ -35,3 +35,5 @@ NOTES:
   - This is NOT real JavaScript
   - This is a custom interpreter (toy language)
   - TypeScript types are ignored (no type checking)
+
+© 2026 Wojciech Jezierski. All rights reserved.
